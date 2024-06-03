@@ -1,1 +1,0 @@
-from .immutable_model_view_set import ImmutableModelViewSet
